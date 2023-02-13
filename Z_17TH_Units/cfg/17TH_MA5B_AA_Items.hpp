@@ -1,0 +1,52 @@
+Weapons[]=
+{
+	"OPTRE_MA5B",
+	"OPTRE_M6C",
+	"OPTRE_M41_SSR",
+	"Throw",
+	"Put"
+};
+respawnWeapons[]=
+{
+	"OPTRE_MA5B",
+	"OPTRE_M6C",
+	"OPTRE_M41_SSR",
+	"Throw",
+	"Put"
+};
+Magazines[]=
+{
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_16Rnd_127x40_Mag",
+	"OPTRE_16Rnd_127x40_Mag",
+	"SmokeShell",
+	"SmokeShell",
+	"OPTRE_M2_Smoke_Red",
+	"OPTRE_M2_Smoke_Red",
+	"OPTRE_M2_Smoke_Green",
+	"OPTRE_M2_Smoke_Green",
+	"OPTRE_M41_Twin_HEAT_Thermal",
+	"OPTRE_M41_Twin_HEAT_Thermal"
+};
+respawnMagazines[]=
+{
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_60Rnd_762x51_Mag",
+	"OPTRE_16Rnd_127x40_Mag",
+	"OPTRE_16Rnd_127x40_Mag",
+	"SmokeShell",
+	"SmokeShell",
+	"OPTRE_M2_Smoke_Red",
+	"OPTRE_M2_Smoke_Red",
+	"OPTRE_M2_Smoke_Green",
+	"OPTRE_M2_Smoke_Green",
+	"OPTRE_M41_Twin_HEAT_Thermal",
+	"OPTRE_M41_Twin_HEAT_Thermal"
+};

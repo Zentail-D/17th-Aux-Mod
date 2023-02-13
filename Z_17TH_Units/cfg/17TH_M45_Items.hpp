@@ -1,0 +1,54 @@
+Weapons[]=
+{
+	"OPTRE_M45",
+	"OPTRE_M6C",
+	"Throw",
+	"Put"
+};
+respawnWeapons[]=
+{
+	"OPTRE_M45",
+	"OPTRE_M6C",
+	"Throw",
+	"Put"
+};
+Magazines[]=
+{
+	"OPTRE_6Rnd_8Guage_Pellets",
+	"OPTRE_6Rnd_8Guage_Pellets",
+	"OPTRE_6Rnd_8Guage_Pellets",
+	"OPTRE_6Rnd_8Guage_Slugs",
+	"OPTRE_6Rnd_8Guage_Slugs",
+	"OPTRE_6Rnd_8Guage_Slugs",
+	"OPTRE_6Rnd_8Guage_HEDP",
+	"OPTRE_6Rnd_8Guage_HEDP",
+	"OPTRE_6Rnd_8Guage_HEDP",
+	"OPTRE_16Rnd_127x40_Mag",
+	"OPTRE_16Rnd_127x40_Mag",
+	"SmokeShell",
+	"SmokeShell",
+	"OPTRE_M2_Smoke_Red",
+	"OPTRE_M2_Smoke_Red",
+	"OPTRE_M2_Smoke_Green",
+	"OPTRE_M2_Smoke_Green"
+};
+respawnMagazines[]=
+{
+	"OPTRE_6Rnd_8Guage_Pellets",
+	"OPTRE_6Rnd_8Guage_Pellets",
+	"OPTRE_6Rnd_8Guage_Pellets",
+	"OPTRE_6Rnd_8Guage_Slugs",
+	"OPTRE_6Rnd_8Guage_Slugs",
+	"OPTRE_6Rnd_8Guage_Slugs",
+	"OPTRE_6Rnd_8Guage_HEDP",
+	"OPTRE_6Rnd_8Guage_HEDP",
+	"OPTRE_6Rnd_8Guage_HEDP",
+	"OPTRE_16Rnd_127x40_Mag",
+	"OPTRE_16Rnd_127x40_Mag",
+	"SmokeShell",
+	"SmokeShell",
+	"OPTRE_M2_Smoke_Red",
+	"OPTRE_M2_Smoke_Red",
+	"OPTRE_M2_Smoke_Green",
+	"OPTRE_M2_Smoke_Green"
+};
