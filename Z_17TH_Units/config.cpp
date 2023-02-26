@@ -1,4 +1,4 @@
-// Big shoutout to Fireteam Zulu for letting me create an Aux Mod off of their armors. Check out their mod!
+// Big shoutout to Fireteam Zulu and OPTRE for letting me create an Aux Mod off of their armors. Check out their mod!
 
 class CfgPatches
 {
@@ -216,7 +216,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Rifleman_SquadLeader";
 					};
 					class Corporal1: Corporal
@@ -288,7 +287,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Rifleman_SquadLeader";
 					};
 					class Corporal1: Corporal
@@ -360,7 +358,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Rifleman_SquadLeader";
 					};
 					class Corporal1: Corporal
@@ -402,7 +399,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Rifleman_SquadLeader";
 					};
 					class Corporal1: Corporal
@@ -444,7 +440,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Rifleman_TeamLeader";
 					};
 					class Private: Corporal
@@ -470,7 +465,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Rifleman_TeamLeader";
 					};
 					class Private: Corporal
@@ -507,7 +501,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Insurgent_SquadLeader";
 					};
 					class Corporal1: Corporal
@@ -578,7 +571,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Insurgent_SquadLeader";
 					};
 					class Corporal1: Corporal
@@ -649,7 +641,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Insurgent_SquadLeader";
 					};
 					class Corporal1: Corporal
@@ -690,7 +681,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Insurgent_SquadLeader";
 					};
 					class Corporal1: Corporal
@@ -731,7 +721,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Insurgent_TeamLeader";
 					};
 					class Private: Corporal
@@ -756,7 +745,6 @@ class CfgGroups
 					{
 						position[]={0,0,0};
 						rank="CORPORAL";
-						side=1;
 						vehicle="17TH_Insurgent_TeamLeader";
 					};
 					class Private: Corporal

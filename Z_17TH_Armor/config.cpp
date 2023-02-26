@@ -1,4 +1,4 @@
-// Big shoutout to Fireteam Zulu for letting me create an Aux Mod off of their armors. Check out their mod!
+// Big shoutout to Fireteam Zulu and OPTRE for letting me create an Aux Mod off of their armors. Check out their mod!
 
 class CfgPatches
 {
